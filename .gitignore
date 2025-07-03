@@ -1,0 +1,20 @@
+# Python specific
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+venv/
+.venv/
+env/
+.env
+
+# Flask specific
+instance/
+*.sqlite3
+
+# macOS specific
+.DS_Store
+
+# Logs
+*.log
+
